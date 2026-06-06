@@ -38,7 +38,7 @@ Ensure you are using Python 3.10+ (Anaconda is recommended).
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ushnesha/BirdClef-2026.git
 cd BirdClef
 ```
 
