@@ -52,3 +52,5 @@ test_soundscapes/
 birdclef2026_trained/*.pt
 birdclef2026_trained/*.joblib
 birdclef2026_trained/*.npy
+
+*.ipynb
