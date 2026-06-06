@@ -1,0 +1,11 @@
+torch
+onnxruntime
+kagglehub
+numpy
+pandas
+soundfile
+scikit-learn
+matplotlib
+tqdm
+joblib
+librosa

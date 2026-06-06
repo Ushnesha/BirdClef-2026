@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Local data cache
+cache/
+mel_cache/
+
+# Large Dataset Files (Audio & CSV)
+train_audio/
+train_soundscapes/
+test_soundscapes/
+*.csv
+*.ogg
+*.wav
+*.mp3
+*.m4a
+
+# Large Model Weights, Checkpoints & Arrays
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.npy
+*.onnx
+
+# Allow tracking visualization curves in the output directory
+!birdclef2026_trained/
+birdclef2026_trained/*.pt
+birdclef2026_trained/*.joblib
+birdclef2026_trained/*.npy
